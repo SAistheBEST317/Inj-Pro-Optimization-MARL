@@ -1,0 +1,14 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid non-geom, non-prop non-operational non-parallel keywords (GRDOTHERS) Data Section Version 2016.1 Jul 11 2016
+-- -----------------------------------------------------------------------------
+--
+-- File: EGG_GOTH.INC
+-- Created on: 2022-Jun-26 at: 15:20:06
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--

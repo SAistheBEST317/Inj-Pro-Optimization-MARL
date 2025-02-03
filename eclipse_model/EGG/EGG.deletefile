@@ -1,0 +1,117 @@
+<eclipse>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with x86_64 architecture named MS-HKYIXYCLGHEZ
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 5632
+</message>
+<message source="eclrun" date="" time="0">
+Starting HDF conversion ...
+</message>
+<message source="eclrun" date="" time="0">
+HDF conversion completed successfully.
+</message>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with x86_64 architecture named MS-HKYIXYCLGHEZ
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 5632
+</message>
+<message source="eclrun" date="" time="0">
+Simulation has finished.
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+      11353 KBYTES                                                       
+</message>
+<warning date="15/6/2011" time="0.00000000000000">
+ FLUX FLAG SET IN RUNSPEC BUT FLUXNUM KEYWORD                            
+ NOT USED -- SAVE SPACE BY SETTING NTFREG = 0                            
+ IN RUNSPEC KEYWORD REGDIMS.                                             
+</warning>
+<message date="15/6/2011" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ BLOCK CENTRE TRANSMISSIBILITIES TO BE CALCULATED                        
+ USING  OLDTRAN                                                          
+</message>
+<comment date="15/6/2011" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS FOUND                                      
+</comment>
+<message date="15/6/2011" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 18553                                         
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+      30977 KBYTES                                                       
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+    62395 CHARACTER VARIABLES USED                                       
+</message>
+<warning date="15/6/2011" time="0.00000000000000">
+ SPURIOUS DATA BEFORE ECHO     KEYWORD                                   
+ /                                                                       
+</warning>
+<message date="15/6/2011" time="0.00000000000000">
+ SAVE FILE HAS BEEN WRITTEN.                                             
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL PROD1    AT TIME      0.00   DAYS                          
+ CONTROLLED BY BOTTOM HOLE PRESSURE                                      
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL PROD3    AT TIME      0.00   DAYS                          
+ CONTROLLED BY BOTTOM HOLE PRESSURE                                      
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL PROD2    AT TIME      0.00   DAYS                          
+ CONTROLLED BY BOTTOM HOLE PRESSURE                                      
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL PROD4    AT TIME      0.00   DAYS                          
+ CONTROLLED BY BOTTOM HOLE PRESSURE                                      
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT1  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT2  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT3  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT4  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT5  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT6  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT7  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ OPENING WELL INJECT8  AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="15/6/2011" time="0.00000000000000">
+ RESTART FILE WRITTEN   REPORT     0                                     
+</message>
+<message date="16/6/2011" time="1.00000000000000">
+ RESTART FILE WRITTEN   REPORT     1                                     
+</message>
+</eclipse>

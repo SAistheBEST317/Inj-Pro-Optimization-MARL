@@ -1,0 +1,1340 @@
+
+
+
+ $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+ $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+ $      $      $       $   $   $  $      $         $   $   $  $   $
+ $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+ $      $      $       $   $          $  $         $   $   $  $   $
+ $      $   $  $       $   $      $   $  $         $   $   $  $   $
+ $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+
+
+                       $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+                       $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+                       $      $      $       $   $   $  $      $         $   $   $  $   $
+                       $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+                       $      $      $       $   $          $  $         $   $   $  $   $
+                       $      $   $  $       $   $      $   $  $         $   $   $  $   $
+                       $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+
+
+                                             $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+                                             $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+                                             $      $      $       $   $   $  $      $         $   $   $  $   $
+                                             $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+                                             $      $      $       $   $          $  $         $   $   $  $   $
+                                             $      $   $  $       $   $      $   $  $         $   $   $  $   $
+                                             $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+
+
+                                                                   $$$$$   $$$   $      $$$  $$$$    $$$   $$$$$     $    $$$    $$$ 
+                                                                   $      $   $  $       $   $   $  $   $  $        $$   $   $  $   $
+                                                                   $      $      $       $   $   $  $      $         $   $   $  $   $
+                                                                   $$$$   $      $       $   $$$$    $$$   $$$$      $   $   $  $   $
+                                                                   $      $      $       $   $          $  $         $   $   $  $   $
+                                                                   $      $   $  $       $   $      $   $  $         $   $   $  $   $
+                                                                   $$$$$   $$$   $$$$$  $$$  $       $$$   $$$$$    $$$   $$$    $$$ 
+
+Proprietary Notice
+This application contains the confidential and proprietary trade secrets of Schlumberger and may not be copied or stored in an
+information retrieval system, transferred, used, distributed, translated, or retransmitted in any form or by any means, electronic
+or mechanical, in whole or in part, without the express written permission of the copyright owner.
+
+ECLIPSE is a mark of Schlumberger. Copyright (c) 1981-2016 Schlumberger. All rights reserved.
+
+Version =  2016.1  
+Arch    =  PC WINDOWS (64 bit, PC_IL1364VS110OPT8BYTE)
+
+Annex    | Modification date    | Update date          | baseline             
+=====    | =================    | ===========          | ========             
+ECLIPSE  | 04-JUL-2016 16:46:24 | 11-JUL-2016 09:25:00 | 2016.1_580721
+petlast  | 29-FEB-2012 11:48:27 | 11-JUL-2016 09:26:04 | 2016.1_580721
+system   | 15-APR-2016 09:41:26 | 11-JUL-2016 09:27:38 | 2016.1_580721
+tpb      | 17-JUL-2013 16:28:58 | 11-JUL-2016 09:28:09 | 2016.1_580721
+utility  | 23-NOV-2015 16:07:04 | 11-JUL-2016 09:28:09 | 2016.1_580721
+ 
+ HOST windows-9prqpt9 USER   ARCH  
+
+1
+
+ ******** ECHO OF INPUT DATA FOR RUN EGG_TEST
+
+ 0: -- Generated [
+ 0: -- Format      : ECLIPSE keywords (ASCII)
+ 0: -- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+ 0: -- User name   : Administrator
+ 0: -- Date        : Friday, November 25 2022 09:30:30
+ 0: -- Project     : EGG.pet
+ 0: -- Generated ]
+ 0: 
+ 0: --
+ 0: -- -----------------------------------------------------------------------------
+ 0: -- Office Simulation File (DATA) Data Section Version 2016.1 Jul 11 2016
+ 0: -- -----------------------------------------------------------------------------
+ 0: --
+ 0: -- File: EGG_E100.DATA
+ 0: -- Created on: 2022-Jun-26 at: 15:20:09
+ 0: --
+ 0: -- *****************************************************************************
+ 0: -- *                                  WARNING                                  *
+ 0: -- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+ 0: -- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+ 0: -- *****************************************************************************
+ 0: --
+ 0: 
+ 0: 
+ 0: 
+ 0: 
+ 0: 
+ 0: RUNSPEC
+ 0: 
+ 0: TITLE                                  -- Generated : Petrel
+ 0: 'VEM'
+ 0: 
+ 0: WELLDIMS                               -- Generated : Petrel
+ 0:   3 7 2 3 /
+ 0: 
+ 0: MESSAGES
+ 0:  9* 1000000 /
+ 0: 
+ 0: START                                  -- Generated : Petrel
+ 0:   1 JAN 2022 /
+ 0: 
+ 0: DISGAS                                 -- Generated : Petrel
+ 0: 
+ 0: WATER                                  -- Generated : Petrel
+ 0: 
+ 0: OIL                                    -- Generated : Petrel
+ 0: 
+ 0: GAS                                    -- Generated : Petrel
+ 0: 
+ 0: PETOPTS                                -- Generated : Petrel
+ 0: INITNNC /
+ 0: 
+ 0: MONITOR                                -- Generated : Petrel
+ 0: 
+ 0: RSSPEC
+ 0: 
+ 0: NOINSPEC
+ 0: 
+ 0: MSGFILE
+ 0: 
+ 0: MULTOUT                                -- Generated : Petrel
+ 0: 
+ 0: METRIC                                 -- Generated : Petrel
+ 0: 
+ 0: FMTIN
+ 0: 
+ 0: FMTOUT
+ 0: 
+ 0: DIMENS                                 -- Generated : Petrel
+ 0:   24 37 7 /
+ 0: 
+ 0: TABDIMS                                -- Generated : Petrel
+ 0:   12* 1 /
+ 0: 
+ 0: GRID
+ 0: 
+ 0: INCLUDE                                -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_GRID.INC                                                                                                                   
+
+ 1: -- Generated [
+ 1: -- Format      : ECLIPSE keywords (ASCII)
+ 1: -- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+ 1: -- User name   : Administrator
+ 1: -- Date        : Friday, November 25 2022 09:30:30
+ 1: -- Project     : EGG.pet
+ 1: -- Generated ]
+ 1: 
+ 1: INIT                                   -- Generated : Petrel
+ 1: 
+ 1: GRIDFILE
+ 1:   0 1 /
+ 1: 
+ 1: GRIDUNIT                               -- Generated : Petrel
+ 1:   METRES /
+ 1: 
+ 1: MAPUNITS                               -- Generated : Petrel
+ 1:   METRES /
+ 1: 
+ 1: MAPAXES                                -- Generated : Petrel
+ 1:   0.00 -1184.00 0.00 -184.00 1000.00 -184.00 /
+ 1: 
+
+ ******** END OF INCLUDED FILE 
+
+ 0: 
+ 0: NOECHO                                 -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_GRID.GRDECL                                                                                                                
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_PERMX.GRDECL                                                                                                          
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_PERMY.GRDECL                                                                                                          
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_PERMZ.GRDECL                                                                                                          
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_PORO.GRDECL                                                                                                           
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_NTG.GRDECL                                                                                                            
+
+
+ ******** END OF INCLUDED FILE 
+
+ 0: ECHO                                   -- Generated : Petrel
+ 0: 
+ 0: EDIT
+ 0: 
+ 0: PROPS
+ 0: 
+ 0: INCLUDE                                -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROPS.INC                                                                                                                  
+
+ 1: -- Generated [
+ 1: -- Format      : ECLIPSE keywords (ASCII)
+ 1: -- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+ 1: -- User name   : Administrator
+ 1: -- Date        : Friday, November 25 2022 09:30:30
+ 1: -- Project     : EGG.pet
+ 1: -- Generated ]
+ 1: 
+ 1: ROCKOPTS                               -- Generated : Petrel
+ 1:   1* 1* ROCKNUM /
+ 1: 
+ 1: ROCK                                   -- Generated : Petrel
+ 1:       400.0000   5.787E-005 /
+ 1: 
+ 1: PVTW                                   -- Generated : Petrel
+ 1:            350       1.0373  4.4016E-005       0.2577            0 /
+ 1: 
+ 1: PVTO                                   -- Generated : Petrel
+ 1:         48.219      86.5088       1.2108      0.94521
+ 1:       108.6141       1.2018      0.97603
+ 1:       130.7193       1.1959       1.0142
+ 1:       152.8246       1.1917        1.059
+ 1:       174.9299       1.1886       1.1098
+ 1:       197.0351       1.1862       1.1661
+ 1:       219.1404       1.1843       1.2277
+ 1:       241.2457       1.1827       1.2942
+ 1:       263.3509       1.1814       1.3656
+ 1:       285.4562       1.1804       1.4414
+ 1:       307.5615       1.1794       1.5215
+ 1:       329.6667       1.1786       1.6056
+ 1:       351.7720       1.1779       1.6936
+ 1:       373.8772       1.1773        1.785
+ 1:       395.9825       1.1767       1.8797
+ 1:       418.0878       1.1762       1.9772
+ 1:       440.1930       1.1758       2.0774
+ 1:       462.2983       1.1754       2.1798
+ 1:       484.4036        1.175        2.284 /
+ 1:         56.585     108.6141       1.2313      0.86977
+ 1:       130.7193       1.2232      0.89773
+ 1:       152.8246       1.2175      0.93118
+ 1:       174.9299       1.2133      0.96958
+ 1:       197.0351         1.21       1.0125
+ 1:       219.1404       1.2074       1.0596
+ 1:       241.2457       1.2053       1.1107
+ 1:       263.3509       1.2035       1.1655
+ 1:       285.4562        1.202       1.2238
+ 1:       307.5615       1.2007       1.2855
+ 1:       329.6667       1.1996       1.3501
+ 1:       351.7720       1.1987       1.4177
+ 1:       373.8772       1.1978       1.4879
+ 1:       395.9825       1.1971       1.5606
+ 1:       418.0878       1.1964       1.6355
+ 1:       440.1930       1.1958       1.7122
+ 1:       462.2983       1.1952       1.7907
+ 1:       484.4036       1.1947       1.8705 /
+ 1:          64.99     130.7193        1.252      0.80757
+ 1:       152.8246       1.2446      0.83317
+ 1:       174.9299        1.239      0.86301
+ 1:       197.0351       1.2348       0.8967
+ 1:       219.1404       1.2314       0.9339
+ 1:       241.2457       1.2286      0.97438
+ 1:       263.3509       1.2263       1.0179
+ 1:       285.4562       1.2244       1.0643
+ 1:       307.5615       1.2227       1.1134
+ 1:       329.6667       1.2213       1.1649
+ 1:       351.7720         1.22       1.2188
+ 1:       373.8772       1.2189       1.2747
+ 1:       395.9825       1.2179       1.3326
+ 1:       418.0878        1.217       1.3923
+ 1:       440.1930       1.2163       1.4534
+ 1:       462.2983       1.2155       1.5159
+ 1:       484.4036       1.2149       1.5795 /
+ 1:         73.636     152.8246       1.2734      0.75412
+ 1:       174.9299       1.2664       0.7777
+ 1:       197.0351        1.261      0.80463
+ 1:       219.1404       1.2567       0.8346
+ 1:       241.2457       1.2532      0.86736
+ 1:       263.3509       1.2503      0.90271
+ 1:       285.4562       1.2479      0.94047
+ 1:       307.5615       1.2458      0.98047
+ 1:       329.6667        1.244       1.0225
+ 1:       351.7720       1.2424       1.0665
+ 1:       373.8772        1.241       1.1123
+ 1:       395.9825       1.2398       1.1596
+ 1:       418.0878       1.2387       1.2084
+ 1:       440.1930       1.2377       1.2584
+ 1:       462.2983       1.2368       1.3095
+ 1:       484.4036        1.236       1.3616 /
+ 1:         82.675     174.9299        1.296      0.70692
+ 1:       197.0351       1.2893      0.72871
+ 1:       219.1404        1.284      0.75318
+ 1:       241.2457       1.2797      0.78009
+ 1:       263.3509       1.2761      0.80926
+ 1:       285.4562       1.2731       0.8405
+ 1:       307.5615       1.2705      0.87366
+ 1:       329.6667       1.2682      0.90859
+ 1:       351.7720       1.2663      0.94516
+ 1:       373.8772       1.2646      0.98321
+ 1:       395.9825        1.263       1.0226
+ 1:       418.0878       1.2617       1.0633
+ 1:       440.1930       1.2605        1.105
+ 1:       462.2983       1.2594       1.1476
+ 1:       484.4036       1.2584        1.191 /
+ 1:         92.232     197.0351       1.3201      0.66443
+ 1:       219.1404       1.3136      0.68461
+ 1:       241.2457       1.3083      0.70696
+ 1:       263.3509        1.304      0.73129
+ 1:       285.4562       1.3003      0.75745
+ 1:       307.5615       1.2971      0.78529
+ 1:       329.6667       1.2944      0.81467
+ 1:       351.7720        1.292      0.84547
+ 1:       373.8772       1.2899      0.87757
+ 1:       395.9825       1.2881      0.91085
+ 1:       418.0878       1.2864      0.94517
+ 1:       440.1930        1.285      0.98043
+ 1:       462.2983       1.2836       1.0165
+ 1:       484.4036       1.2824       1.0532 /
+ 1:         102.41     219.1404        1.346      0.62571
+ 1:       241.2457       1.3396      0.64441
+ 1:       263.3509       1.3343      0.66489
+ 1:       285.4562       1.3299      0.68699
+ 1:       307.5615       1.3261      0.71059
+ 1:       329.6667       1.3229      0.73555
+ 1:       351.7720         1.32      0.76177
+ 1:       373.8772       1.3175      0.78912
+ 1:       395.9825       1.3153      0.81751
+ 1:       418.0878       1.3133      0.84683
+ 1:       440.1930       1.3115      0.87697
+ 1:       462.2983       1.3099      0.90783
+ 1:       484.4036       1.3084      0.93929 /
+ 1:         113.31     241.2457        1.374       0.5901
+ 1:       263.3509       1.3677      0.60745
+ 1:       285.4562       1.3624      0.62626
+ 1:       307.5615       1.3578      0.64641
+ 1:       329.6667       1.3539      0.66779
+ 1:       351.7720       1.3505      0.69028
+ 1:       373.8772       1.3475      0.71379
+ 1:       395.9825       1.3449      0.73823
+ 1:       418.0878       1.3425      0.76349
+ 1:       440.1930       1.3404      0.78948
+ 1:       462.2983       1.3385      0.81611
+ 1:       484.4036       1.3367       0.8433 /
+ 1:         125.01     263.3509       1.4043      0.55718
+ 1:       285.4562        1.398      0.57328
+ 1:       307.5615       1.3926      0.59059
+ 1:       329.6667        1.388      0.60901
+ 1:       351.7720        1.384      0.62844
+ 1:       373.8772       1.3804      0.64879
+ 1:       395.9825       1.3773      0.66996
+ 1:       418.0878       1.3744      0.69188
+ 1:       440.1930       1.3719      0.71446
+ 1:       462.2983       1.3697      0.73762
+ 1:       484.4036       1.3676      0.76128 /
+ 1:         137.59     285.4562       1.4372      0.52662
+ 1:       307.5615       1.4309      0.54157
+ 1:       329.6667       1.4254      0.55753
+ 1:       351.7720       1.4206       0.5744
+ 1:       373.8772       1.4164      0.59211
+ 1:       395.9825       1.4127      0.61057
+ 1:       418.0878       1.4094       0.6297
+ 1:       440.1930       1.4064      0.64944
+ 1:       462.2983       1.4038      0.66971
+ 1:       484.4036       1.4013      0.69044 /
+ 1:         151.11     307.5615       1.4729      0.49819
+ 1:       329.6667       1.4665      0.51208
+ 1:       351.7720       1.4609       0.5268
+ 1:       373.8772        1.456      0.54229
+ 1:       395.9825       1.4516      0.55846
+ 1:       418.0878       1.4477      0.57525
+ 1:       440.1930       1.4442       0.5926
+ 1:       462.2983       1.4411      0.61043
+ 1:       484.4036       1.4382      0.62868 /
+ 1:         165.65     329.6667       1.5117       0.4717
+ 1:       351.7720       1.5051       0.4846
+ 1:       373.8772       1.4993       0.4982
+ 1:       395.9825       1.4942      0.51244
+ 1:       418.0878       1.4897      0.52724
+ 1:       440.1930       1.4856      0.54255
+ 1:       462.2983       1.4819      0.55831
+ 1:       484.4036       1.4785      0.57447 /
+ 1:         181.28     351.7720       1.5537      0.44699
+ 1:       373.8772       1.5469      0.45898
+ 1:       395.9825       1.5409      0.47156
+ 1:       418.0878       1.5356      0.48466
+ 1:       440.1930       1.5308      0.49824
+ 1:       462.2983       1.5265      0.51223
+ 1:       484.4036       1.5226      0.52658 /
+ 1:         198.04     373.8772       1.5991      0.42394
+ 1:       395.9825       1.5921      0.43509
+ 1:       418.0878       1.5859      0.44673
+ 1:       440.1930       1.5803       0.4588
+ 1:       462.2983       1.5752      0.47127
+ 1:       484.4036       1.5707      0.48407 /
+ 1:            216     395.9825       1.6481      0.40241
+ 1:       418.0878       1.6408      0.41278
+ 1:       440.1930       1.6343      0.42357
+ 1:       462.2983       1.6285      0.43471
+ 1:       484.4036       1.6232      0.44617 /
+ 1:   /
+ 1: 
+ 1: PVDG                                   -- Generated : Petrel
+ 1:        80.0000      0.01603     0.015417
+ 1:       101.0000      0.01254     0.016092
+ 1:       122.0000      0.01029     0.016851
+ 1:       143.0000      0.00874     0.017688
+ 1:       164.0000      0.00761     0.018591
+ 1:       185.0000      0.00677     0.019547
+ 1:       206.0000      0.00612     0.020542
+ 1:       227.0000      0.00561     0.021562
+ 1:       248.0000      0.00521     0.022596
+ 1:       269.0000      0.00488     0.023634
+ 1:       290.0000      0.00460     0.024669
+ 1:       311.0000      0.00437     0.025694
+ 1:       332.0000      0.00418     0.026707
+ 1:       353.0000      0.00401     0.027704
+ 1:       374.0000      0.00386     0.028685
+ 1:       395.0000      0.00374     0.029647
+ 1:       416.0000      0.00363     0.030592
+ 1:       437.0000      0.00353     0.031519
+ 1:       458.0000      0.00344     0.032428
+ 1:       479.0000      0.00336      0.03332
+ 1:   /
+ 1: 
+ 1: DENSITY                                -- Generated : Petrel
+ 1:            890       1020.3          0.9 /
+ 1: 
+ 1: FILLEPS                                -- Generated : Petrel
+ 1: 
+ 1: SWOF                                   -- Generated : Petrel
+ 1:            0.3            0          0.8            0
+ 1:           0.35            0      0.56187            0
+ 1:            0.4    0.0001709      0.37641            0
+ 1:           0.45    0.0027344      0.23704            0
+ 1:            0.5     0.013843      0.13717            0
+ 1:           0.55      0.04375     0.070233            0
+ 1:            0.6      0.10681      0.02963            0
+ 1:           0.65      0.22148    0.0087791            0
+ 1:            0.7      0.41033    0.0010974            0
+ 1:           0.75          0.7            0            0
+ 1:              1            1            0            0
+ 1:   /
+ 1: 
+ 1: SGOF                                   -- Generated : Petrel
+ 1:              0            0          0.8            0
+ 1:            0.1            0      0.37641            0
+ 1:        0.14375  2.6703E-006      0.25216            0
+ 1:         0.1875    0.0001709       0.1588            0
+ 1:        0.23125    0.0019466     0.091896            0
+ 1:          0.275     0.010938     0.047051            0
+ 1:        0.31875     0.041723      0.01985            0
+ 1:         0.3625      0.12458    0.0058813            0
+ 1:        0.40625      0.31416   0.00073517            0
+ 1:           0.45          0.7            0            0
+ 1:            0.7          0.8            0            0
+ 1:   /
+ 1: 
+
+ ******** END OF INCLUDED FILE 
+
+ 0: 
+ 0: REGIONS
+ 0: 
+ 0: NOECHO                                 -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_SATNUM.GRDECL                                                                                                         
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_PVTNUM.GRDECL                                                                                                         
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_ROCKNUM.GRDECL                                                                                                        
+
+
+ ******** END OF INCLUDED FILE 
+
+
+ ******** START OF INCLUDED FILE EGG_TEST_PROP_EQLNUM.GRDECL                                                                                                         
+
+
+ ******** END OF INCLUDED FILE 
+
+ 0: ECHO                                   -- Generated : Petrel
+ 0: 
+ 0: SOLUTION
+ 0: 
+ 0: INCLUDE                                -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_SOL.INC                                                                                                                    
+
+ 1: -- Generated [
+ 1: -- Format      : ECLIPSE keywords (ASCII)
+ 1: -- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+ 1: -- User name   : Administrator
+ 1: -- Date        : Friday, November 25 2022 09:30:30
+ 1: -- Project     : EGG.pet
+ 1: -- Generated ]
+ 1: 
+ 1: EQUIL                                  -- Generated : Petrel
+ 1:           4000          400         5000            0         1000            0 1 0 0 /
+ 1: 
+ 1: RPTSOL
+ 1: --
+ 1: -- Initialisation Print Output
+ 1: --
+ 1:  RESTART=2 /
+ 1: 
+ 1: RSVD                                   -- Generated : Petrel
+ 1:            860           48
+ 1:           2000           92
+ 1:           3500          181
+ 1:           4000          216
+ 1:   /
+ 1: 
+ 1: RPTRST                                 -- Generated : Petrel
+ 1:   BASIC=3 FLOWS /
+ 1: 
+
+ ******** END OF INCLUDED FILE 
+
+ 0: 
+ 0: SUMMARY
+ 0: 
+ 0: EXCEL
+ 0: 
+ 0: RPTONLY
+ 0: 
+ 0: WLPR
+ 0:  /
+ 0: 
+ 0: WSTAT
+ 0:  /
+ 0: 
+ 0: WWGR
+ 0:  /
+ 0: 
+ 0: GWGR
+ 0:  /
+ 0: 
+ 0: WWCT
+ 0:  /
+ 0: 
+ 0: GWCT
+ 0:  /
+ 0: 
+ 0: WTHP
+ 0:  /
+ 0: 
+ 0: TIMESTEP
+ 0: 
+ 0: WVPR
+ 0:  /
+ 0: 
+ 0: GVPR
+ 0:  /
+ 0: 
+ 0: WVPT
+ 0:  /
+ 0: 
+ 0: GVPT
+ 0:  /
+ 0: 
+ 0: FWPR
+ 0: 
+ 0: FWPT
+ 0: 
+ 0: WVIR
+ 0:  /
+ 0: 
+ 0: GVIR
+ 0:  /
+ 0: 
+ 0: WVIT
+ 0:  /
+ 0: 
+ 0: GVIT
+ 0:  /
+ 0: 
+ 0: WPI
+ 0:  /
+ 0: 
+ 0: WWPR
+ 0:  /
+ 0: 
+ 0: GWPR
+ 0:  /
+ 0: 
+ 0: WOPR
+ 0:  /
+ 0: 
+ 0: FOPR
+ 0: 
+ 0: FOPT
+ 0: 
+ 0: GOPR
+ 0:  /
+ 0: 
+ 0: WGPR
+ 0:  /
+ 0: 
+ 0: GGPR
+ 0:  /
+ 0: 
+ 0: WEPR
+ 0:  /
+ 0: 
+ 0: WWPT
+ 0:  /
+ 0: 
+ 0: GWPT
+ 0:  /
+ 0: 
+ 0: WOPT
+ 0:  /
+ 0: 
+ 0: GOPT
+ 0:  /
+ 0: 
+ 0: WGPT
+ 0:  /
+ 0: 
+ 0: GGPT
+ 0:  /
+ 0: 
+ 0: WWIR
+ 0:  /
+ 0: 
+ 0: GWIR
+ 0:  /
+ 0: 
+ 0: WOIR
+ 0:  /
+ 0: 
+ 0: GOIR
+ 0:  /
+ 0: 
+ 0: WGIR
+ 0:  /
+ 0: 
+ 0: GGIR
+ 0:  /
+ 0: 
+ 0: WWIT
+ 0:  /
+ 0: 
+ 0: GWIT
+ 0:  /
+ 0: 
+ 0: FGPR
+ 0: 
+ 0: FGPT
+ 0: 
+ 0: WOIT
+ 0:  /
+ 0: 
+ 0: GOIT
+ 0:  /
+ 0: 
+ 0: WGIT
+ 0:  /
+ 0: 
+ 0: FWIR
+ 0: 
+ 0: FWIT
+ 0: 
+ 0: GGIT
+ 0:  /
+ 0: 
+ 0: WGOR
+ 0:  /
+ 0: 
+ 0: GGOR
+ 0:  /
+ 0: 
+ 0: WBHP
+ 0:  /
+ 0: 
+ 0: WBP9
+ 0: /
+ 0: 
+ 0: FPR
+ 0: 
+ 0: FGIR
+ 0: 
+ 0: FGIT
+ 0: --
+ 0: -- -----------------------------------------------------------------------------
+ 0: -- End of Office Summary (SUM) Data Section
+ 0: -- -----------------------------------------------------------------------------
+ 0: --
+ 0: 
+ 0: INCLUDE                                -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_SUM.INC                                                                                                                    
+
+ 1: -- Generated [
+ 1: -- Format      : ECLIPSE keywords (ASCII)
+ 1: -- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+ 1: -- User name   : Administrator
+ 1: -- Date        : Friday, November 25 2022 09:30:30
+ 1: -- Project     : EGG.pet
+ 1: -- Generated ]
+ 1: 
+ 1: FWGR                                   -- Generated : Petrel
+ 1: 
+ 1: FWCT                                   -- Generated : Petrel
+ 1: 
+ 1: FRV                                    -- Generated : Petrel
+ 1: 
+ 1: FRS                                    -- Generated : Petrel
+ 1: 
+ 1: FVPR                                   -- Generated : Petrel
+ 1: 
+ 1: FVPT                                   -- Generated : Petrel
+ 1: 
+ 1: FVIR                                   -- Generated : Petrel
+ 1: 
+ 1: FVIT                                   -- Generated : Petrel
+ 1: 
+ 1: FPPW                                   -- Generated : Petrel
+ 1: 
+ 1: FPPO                                   -- Generated : Petrel
+ 1: 
+ 1: FPPG                                   -- Generated : Petrel
+ 1: 
+ 1: WBP5                                   -- Generated : Petrel
+ 1:  /
+ 1: 
+ 1: WBP4                                   -- Generated : Petrel
+ 1:  /
+ 1: 
+ 1: WBP                                    -- Generated : Petrel
+ 1:  /
+ 1: 
+ 1: FWIP                                   -- Generated : Petrel
+ 1: 
+ 1: FOIPG                                  -- Generated : Petrel
+ 1: 
+ 1: FGIPL                                  -- Generated : Petrel
+ 1: 
+ 1: FOIP                                   -- Generated : Petrel
+ 1: 
+ 1: FOIPL                                  -- Generated : Petrel
+ 1: 
+ 1: FGIP                                   -- Generated : Petrel
+ 1: 
+ 1: FGIPG                                  -- Generated : Petrel
+ 1: 
+ 1: FOIR                                   -- Generated : Petrel
+ 1: 
+ 1: FOIT                                   -- Generated : Petrel
+ 1: 
+ 1: FGOR                                   -- Generated : Petrel
+ 1: 
+
+ ******** END OF INCLUDED FILE 
+
+ 0: 
+ 0: SCHEDULE
+ 0: 
+ 0: INCLUDE                                -- Generated : Petrel
+
+ ******** START OF INCLUDED FILE EGG_TEST_SCH.INC                                                                                                                    
+
+ 1: -- Generated [
+ 1: -- Format      : ECLIPSE keywords (ASCII)
+ 1: -- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+ 1: -- User name   : Administrator
+ 1: -- Date        : Friday, November 25 2022 09:30:30
+ 1: -- Project     : EGG.pet
+ 1: -- Generated ]
+ 1: 
+ 1: RPTSCHED                               -- Generated : Petrel
+ 1:   FIP WELLS /
+ 1: 
+ 1: RPTRST                                 -- Generated : Petrel
+ 1:   BASIC=3 FLOWS FREQ /
+ 1: 
+ 1: 
+ 1: WELSPECS                               -- Generated : Petrel
+ 1: --'INJECT1' is the simulation well name used to describe flow from 'INJECT1'
+ 1: --'INJECT3' is the simulation well name used to describe flow from 'INJECT3'
+ 1: --'PROD1' is the simulation well name used to describe flow from 'PROD1'
+ 1: --
+ 1:   INJECT1 'GROUP 1' 5 34 1* LIQ /
+ 1:   INJECT3 'GROUP 1' 2 12 1* LIQ /
+ 1:   PROD1 'GROUP 1' 16 20 1* WATER /
+ 1:   /
+ 1: 
+ 1: COMPDAT                                -- Generated : Petrel
+ 1:   INJECT1 5 34 1 1 OPEN 1* 5.0581E+001 0.20000 2608.00 0.00 1* Z 1.58 /
+ 1:   INJECT1 5 34 2 2 OPEN 1* 3.1822E+001 0.20000 1640.80 0.00 1* Z 1.58 /
+ 1:   INJECT1 5 34 3 3 OPEN 1* 4.2396E+001 0.20000 2186.00 0.00 1* Z 1.58 /
+ 1:   INJECT1 5 34 4 4 OPEN 1* 2.9968E+001 0.20000 1545.20 0.00 1* Z 1.58 /
+ 1:   INJECT1 5 34 5 5 OPEN 1* 3.4910E+001 0.20000 1800.00 0.00 1* Z 1.58 /
+ 1:   INJECT1 5 34 6 6 OPEN 1* 3.9743E+001 0.20000 2049.20 0.00 1* Z 1.58 /
+ 1:   INJECT1 5 34 7 7 OPEN 1* 3.9184E+001 0.20000 2020.38 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 1 1 OPEN 1* 6.7330E+001 0.20000 3471.60 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 2 2 OPEN 1* 7.8284E+001 0.20000 4036.40 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 3 3 OPEN 1* 7.6833E+001 0.20000 3961.59 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 4 4 OPEN 1* 4.5655E+001 0.20000 2354.01 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 5 5 OPEN 1* 7.8284E+001 0.20000 4036.40 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 6 6 OPEN 1* 6.2659E+001 0.20000 3230.79 0.00 1* Z 1.58 /
+ 1:   INJECT3 2 12 7 7 OPEN 1* 3.5096E+001 0.20000 1809.58 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 1 1 OPEN 1* 5.5352E+001 0.20000 2853.99 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 2 2 OPEN 1* 3.3638E+001 0.20000 1734.40 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 3 3 OPEN 1* 4.1946E+001 0.20000 2162.80 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 4 4 OPEN 1* 5.4048E+001 0.20000 2786.80 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 5 5 OPEN 1* 4.9293E+001 0.20000 2541.60 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 6 6 OPEN 1* 5.4444E+001 0.20000 2807.20 0.00 1* Z 1.58 /
+ 1:   PROD1 16 20 7 7 OPEN 1* 4.3823E+001 0.20000 2259.58 0.00 1* Z 1.58 /
+ 1:   /
+ 1: 
+ 1: GRUPTREE                               -- Generated : Petrel
+ 1:   'GROUP 1' FIELD /
+ 1:   /
+ 1: 
+ 1: WCONPROD                               -- Generated : Petrel
+ 1:   INJECT1 1* LRAT 1* 1* 1* 50.00 /
+ 1:   INJECT3 1* LRAT 1* 1* 1* 50.00 /
+ 1:   /
+ 1: 
+ 1: WCONINJE                               -- Generated : Petrel
+ 1:   PROD1 WATER 1* RATE 50.00 /
+ 1:   /
+ 1: 
+ 1: DATES                                  -- Generated : Petrel
+ 1:   1 FEB 2022 /
+ 1:   /
+ 1: 
+
+ ******** END OF INCLUDED FILE 
+
+ 0: 
+
+ ******** END OF INPUT DATA FOR RUN EGG_TEST
+     1 READING RUNSPEC 
+     2 READING TITLE   
+     3 READING WELLDIMS
+     4 READING MESSAGES
+     5 READING START   
+     6 READING DISGAS  
+     7 READING WATER   
+     8 READING OIL     
+     9 READING GAS     
+    10 READING PETOPTS 
+    11 READING MONITOR 
+    12 READING RSSPEC  
+    13 READING NOINSPEC
+    14 READING MSGFILE 
+    15 READING MULTOUT 
+    16 READING METRIC  
+    17 READING FMTIN   
+    18 READING FMTOUT  
+    19 READING DIMENS  
+    20 READING TABDIMS 
+    21 READING GRID    
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           CHECKING FOR LICENSES                                           
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           CHECKING FOR LICENSES                                           
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS              
+ @                 2818 KBYTES                                               
+    23 READING INCLUDE EGG_TEST_GRID.INC                                                                                                                   
+    24 READING INIT    
+    25 READING GRIDFILE
+    26 READING GRIDUNIT
+    27 READING MAPUNITS
+    28 READING MAPAXES 
+               END OF INCLUDE FILE 
+    29 READING NOECHO  
+    30 READING INCLUDE EGG_TEST_GRID.GRDECL                                                                                                                
+    31 READING SPECGRID
+    32 READING COORDSYS
+    33 READING COORD   
+    34 READING ZCORN   
+    35 READING ACTNUM  
+               END OF INCLUDE FILE 
+    36 READING INCLUDE EGG_TEST_PROP_PERMX.GRDECL                                                                                                          
+    37 READING PERMX   
+               END OF INCLUDE FILE 
+    38 READING INCLUDE EGG_TEST_PROP_PERMY.GRDECL                                                                                                          
+    39 READING PERMY   
+               END OF INCLUDE FILE 
+    40 READING INCLUDE EGG_TEST_PROP_PERMZ.GRDECL                                                                                                          
+    41 READING PERMZ   
+               END OF INCLUDE FILE 
+    42 READING INCLUDE EGG_TEST_PROP_PORO.GRDECL                                                                                                           
+    43 READING PORO    
+               END OF INCLUDE FILE 
+    44 READING INCLUDE EGG_TEST_PROP_NTG.GRDECL                                                                                                            
+    45 READING NTG     
+               END OF INCLUDE FILE 
+    46 READING ECHO    
+    47 READING EDIT    
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                  
+ @           TRANSMISSIBILITIES TO BE CALCULATED                             
+ @           USING  NEWTRAN                                                  
+    48 READING PROPS   
+
+ @--COMMENT  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           NO NON-NEIGHBOUR CONNECTIONS FOUND                              
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           NUMBER OF ACTIVE CELLS IS 4649                                  
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS          
+ @                 7529 KBYTES                                               
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @              62194 CHARACTER VARIABLES USED                               
+    49 READING INCLUDE EGG_TEST_PROPS.INC                                                                                                                  
+    50 READING ROCKOPTS
+    51 READING ROCK    
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE ROCK DATA FOR EACH BLOCK WILL CORRESPOND                    
+ @           TO THE ROCK REGION NUMBERS (ROCKNUM) AS THE                     
+ @           THIRD ITEM IN THE ROCKOPTS KEYWORD HAS BEEN                     
+ @           SET TO ROCKNUM                                                  
+    52 READING PVTW    
+    53 READING PVTO    
+    54 READING PVDG    
+    55 READING DENSITY 
+    56 READING FILLEPS 
+    57 READING SWOF    
+    58 READING SGOF    
+               END OF INCLUDE FILE 
+    59 READING REGIONS 
+
+ @--WARNING  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @            NEGATIVE COMPRESSIBILITY FOUND IN GAS                          
+ @            PRESSURE TABLE     1 AND OIL PRESSURE                          
+ @            TABLE     1 AT A SAMPLE PRESSURE VALUE                         
+ @              465.24138 . ADJUST SATURATED FLUID                           
+ @            PROPERTY VALUES AT THIS PRESSURE.                              
+ @            NEGATIVE COMPRESSIBILITIES OCCUR                               
+ @            FOR GAS SATURATIONS LESS THAN     0.01131                      
+
+ @--WARNING  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @            NEGATIVE COMPRESSIBILITY FOUND IN GAS                          
+ @            PRESSURE TABLE     1 AND OIL PRESSURE                          
+ @            TABLE     1 AT A SAMPLE PRESSURE VALUE                         
+ @              479.00000 . ADJUST SATURATED FLUID                           
+ @            PROPERTY VALUES AT THIS PRESSURE.                              
+ @            NEGATIVE COMPRESSIBILITIES OCCUR                               
+ @            FOR GAS SATURATIONS LESS THAN     0.08333                      
+
+ @--WARNING  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE MAXIMUM PRESSURE ENTERED IN THE PVT TABLES                  
+ @           FOR THE OIL PHASE IS    484.404. THIS IS GREATER THAN           
+ @           THE MAXIMUM PRESSURE FOR THE GAS PHASE,    479.000              
+ @           AND MAY LEAD TO PVT TABLE EXTRAPOLATION                         
+    60 READING NOECHO  
+    61 READING INCLUDE EGG_TEST_PROP_SATNUM.GRDECL                                                                                                         
+    62 READING SATNUM  
+               END OF INCLUDE FILE 
+    63 READING INCLUDE EGG_TEST_PROP_PVTNUM.GRDECL                                                                                                         
+    64 READING PVTNUM  
+               END OF INCLUDE FILE 
+    65 READING INCLUDE EGG_TEST_PROP_ROCKNUM.GRDECL                                                                                                        
+    66 READING ROCKNUM 
+               END OF INCLUDE FILE 
+    67 READING INCLUDE EGG_TEST_PROP_EQLNUM.GRDECL                                                                                                         
+    68 READING EQLNUM  
+               END OF INCLUDE FILE 
+    69 READING ECHO    
+    70 READING SOLUTION
+    71 READING INCLUDE EGG_TEST_SOL.INC                                                                                                                    
+    72 READING EQUIL   
+    73 READING RPTSOL  
+    74 READING RSVD    
+    75 READING RPTRST  
+               END OF INCLUDE FILE 
+    76 READING SUMMARY 
+    77 READING EXCEL   
+    78 READING RPTONLY 
+    79 READING WLPR    
+    80 READING WSTAT   
+    81 READING WWGR    
+    82 READING GWGR    
+    83 READING WWCT    
+    84 READING GWCT    
+    85 READING WTHP    
+    86 READING TIMESTEP
+    87 READING WVPR    
+    88 READING GVPR    
+    89 READING WVPT    
+    90 READING GVPT    
+    91 READING FWPR    
+    92 READING FWPT    
+    93 READING WVIR    
+    94 READING GVIR    
+    95 READING WVIT    
+    96 READING GVIT    
+    97 READING WPI     
+    98 READING WWPR    
+    99 READING GWPR    
+   100 READING WOPR    
+   101 READING FOPR    
+   102 READING FOPT    
+   103 READING GOPR    
+   104 READING WGPR    
+   105 READING GGPR    
+   106 READING WEPR    
+   107 READING WWPT    
+   108 READING GWPT    
+   109 READING WOPT    
+   110 READING GOPT    
+   111 READING WGPT    
+   112 READING GGPT    
+   113 READING WWIR    
+   114 READING GWIR    
+   115 READING WOIR    
+   116 READING GOIR    
+   117 READING WGIR    
+   118 READING GGIR    
+   119 READING WWIT    
+   120 READING GWIT    
+   121 READING FGPR    
+   122 READING FGPT    
+   123 READING WOIT    
+   124 READING GOIT    
+   125 READING WGIT    
+   126 READING FWIR    
+   127 READING FWIT    
+   128 READING GGIT    
+   129 READING WGOR    
+   130 READING GGOR    
+   131 READING WBHP    
+   132 READING WBP9    
+   133 READING FPR     
+   134 READING FGIR    
+   135 READING FGIT    
+   136 READING INCLUDE EGG_TEST_SUM.INC                                                                                                                    
+   137 READING FWGR    
+   138 READING FWCT    
+   139 READING FRV     
+   140 READING FRS     
+   141 READING FVPR    
+   142 READING FVPT    
+   143 READING FVIR    
+   144 READING FVIT    
+   145 READING FPPW    
+   146 READING FPPO    
+   147 READING FPPG    
+   148 READING WBP5    
+   149 READING WBP4    
+   150 READING WBP     
+   151 READING FWIP    
+   152 READING FOIPG   
+   153 READING FGIPL   
+   154 READING FOIP    
+   155 READING FOIPL   
+   156 READING FGIP    
+   157 READING FGIPG   
+   158 READING FOIR    
+   159 READING FOIT    
+   160 READING FGOR    
+               END OF INCLUDE FILE 
+   161 READING SCHEDULE
+   162 READING INCLUDE EGG_TEST_SCH.INC                                                                                                                    
+   163 READING RPTSCHED
+   164 READING RPTRST  
+   165 READING SKIP    
+       SKIPPING KEYWORDS
+   166 READING ENDSKIP 
+   167 READING WELSPECS
+   168 READING COMPDAT 
+   169 READING GRUPTREE
+   170 READING WCONPROD
+
+ @--WARNING  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE BOTTOM HOLE PRESSURE LIMIT FOR WELL INJECT1                 
+ @           HAS BEEN DEFAULTED.  THE DEFAULT VALUE IS                       
+ @                1.0   BARSA                                                
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           OPENING WELL INJECT1  AT TIME      0.00   DAYS                  
+ @           CONTROLLED BY LIQUID RATE                                       
+
+ @--WARNING  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE BOTTOM HOLE PRESSURE LIMIT FOR WELL INJECT3                 
+ @           HAS BEEN DEFAULTED.  THE DEFAULT VALUE IS                       
+ @                1.0   BARSA                                                
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           OPENING WELL INJECT3  AT TIME      0.00   DAYS                  
+ @           CONTROLLED BY LIQUID RATE                                       
+   171 READING WCONINJE
+
+ @--WARNING  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           THE BOTTOM HOLE PRESSURE LIMIT FOR WELL PROD1                   
+ @           HAS BEEN DEFAULTED. THE DEFAULT VALUE IS    6891.   BARSA       
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           OPENING WELL PROD1    AT TIME      0.00   DAYS                  
+ @           CONTROLLED BY WATER RATE                                        
+   172 READING DATES   
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           DRSDT KEYWORD HAS NOT BEEN ENTERED, SO THE                      
+ @           MAXIMUM GAS RE-SOLUTION RATE IS DEFAULTED TO INFINITY.          
+
+ @--MESSAGE  AT TIME        0.0   DAYS    ( 1-JAN-2022):
+ @           RESTART FILE WRITTEN   REPORT     0                             
+ @           RESTART INCLUDES INTERBLOCK FLOWS                               
+1                             **********************************************************************   1
+  SIMULATE AT      0.00  DAYS *'VEM'                                                                   * ECLIPSE  VERSION 2016.1     
+  REPORT   0     1 JAN 2022   *  RUN                                                                   * RUN AT 09:30 ON 25 NOV 2022 
+                              **************************************************************************
+
+ STEP    1 TIME=      1.00  DAYS (    +1.0  DAYS INIT 10 ITS) (2-JAN-2022)       
+  PAV=   398.7  BARSA  WCT= 0.00 GOR=   216.00  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ STEP    2 TIME=      1.74  DAYS (   +17.7 HOURS TRNC  2 ITS) (2-JAN-2022)       
+  PAV=   397.0  BARSA  WCT= 0.00 GOR=   215.99  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ STEP    3 TIME=      2.65  DAYS (   +21.8 HOURS TRNC  3 ITS) (3-JAN-2022)       
+  PAV=   395.5  BARSA  WCT= 0.00 GOR=   215.37  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ STEP    4 TIME=      3.90  DAYS (    +1.2  DAYS TRNC  2 ITS) (4-JAN-2022)       
+  PAV=   394.0  BARSA  WCT= 0.00 GOR=   214.16  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ STEP    5 TIME=      5.88  DAYS (    +2.0  DAYS TRNC  4 ITS) (6-JAN-2022)       
+  PAV=   391.7  BARSA  WCT= 0.00 GOR=   212.30  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME        5.9   DAYS    ( 6-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP    6 TIME=      8.35  DAYS (    +2.5  DAYS TRNC  3 ITS) (9-JAN-2022)       
+  PAV=   389.0  BARSA  WCT= 0.00 GOR=   210.09  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME        8.3   DAYS    ( 9-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP    7 TIME=     11.51  DAYS (    +3.2  DAYS TRNC  3 ITS) (12-JAN-2022)      
+  PAV=   385.6  BARSA  WCT= 0.00 GOR=   207.39  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME       11.5   DAYS    (12-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP    8 TIME=     15.04  DAYS (    +3.5  DAYS TRNC  4 ITS) (16-JAN-2022)      
+  PAV=   382.1  BARSA  WCT= 0.00 GOR=   204.54  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME       15.0   DAYS    (16-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP    9 TIME=     19.44  DAYS (    +4.4  DAYS TRNC  4 ITS) (20-JAN-2022)      
+  PAV=   378.0  BARSA  WCT= 0.00 GOR=   201.18  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME       19.4   DAYS    (20-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP   10 TIME=     24.02  DAYS (    +4.6  DAYS TRNC  4 ITS) (25-JAN-2022)      
+  PAV=   373.9  BARSA  WCT= 0.00 GOR=   197.88  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME       24.0   DAYS    (25-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP   11 TIME=     27.51  DAYS (    +3.5  DAYS HALF  3 ITS) (28-JAN-2022)      
+  PAV=   370.6  BARSA  WCT= 0.00 GOR=   195.36  SM3/SM3 WGR= 0.00000   SM3/SM3   
+
+ @--WARNING  AT TIME       27.5   DAYS    (28-JAN-2022):
+ @           LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS      
+ @           TIME-STEP. IN SOME CASES INCREASING LITMAX                      
+ @           (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                        
+ @           THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.       
+
+ STEP   12 TIME=     31.00  DAYS (    +3.5  DAYS REPT  3 ITS) (1-FEB-2022)       
+  PAV=   367.5  BARSA  WCT= 0.00 GOR=   192.95  SM3/SM3 WGR= 0.00000   SM3/SM3   
+1                             **********************************************************************   2
+  WELLS    AT     31.00  DAYS *'VEM'                                                                   * ECLIPSE  VERSION 2016.1     
+  REPORT   1     1 FEB 2022   *  RUN                                                                   * RUN AT 09:30 ON 25 NOV 2022 
+                              **************************************************************************
+
+
+                                                          PRODUCTION REPORT
+                                                          -----------------
+
+------------------------------------------------------------------------------------------------------------------------------------
+:  WELL  :  LOCATION :CTRL:    OIL    :   WATER   :    GAS    :   FLUID   :WATER: GAS/OIL: WAT/GAS: BHP OR : THP OR : STEADY-ST PI :
+:  NAME  :  (I,J,K)  :MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. : CUT :  RATIO :  RATIO : CON.PR.: BLK.PR.: OR POTN OF   :
+: OR GRID:           :    :   SM3/DAY :   SM3/DAY :   SM3/DAY :   RM3/DAY :     : SM3/SM3: SM3/SM3:  BARSA :  BARSA : PREFERRED PH :
+====================================================================================================================================
+:        :           :    :           :           :           :           :     :        :        :        :        :              :
+:FIELD               :    :      100.0:        0.0:    19295.0:      158.4:0.000:  192.95:  0.0000:        :        :              :
+====================================================================================================================================
+:        :           :    :           :           :           :           :     :        :        :        :        :              :
+:GROUP 1   GROUP     :    :      100.0:        0.0:    19295.0:      158.4:0.000:  192.95:  0.0000:        :        :              :
+------------------------------------------------------------------------------------------------------------------------------------
+:        :           :    :           :           :           :           :     :        :        :        :        :              :
+:INJECT1 :  5, 34    :LRAT:       50.0:        0.0:     9644.9:       79.2:0.000:  192.90:  0.0000:   366.1:     0.0:   247.0  L PI:
+:        :           :    :           :           :           :           :     :        :        :        :        :              :
+:INJECT3 :  2, 12    :LRAT:       50.0:        0.0:     9650.1:       79.2:0.000:  193.00:  0.0000:   366.4:     0.0:   410.4  L PI:
+====================================================================================================================================
+
+
+                                                          INJECTION  REPORT
+                                                          -----------------
+
+       -------------------------------------------------------------------------------------------------------------------------
+       :  WELL  :  LOCATION :CTRL:CTRL:CTRL:    OIL    :   WATER   :    GAS    :   FLUID   : BHP OR : THP OR :   STEADY-STATE  :
+       :  NAME  :  (I,J,K)  :MODE:MODE:MODE:    RATE   :   RATE    :    RATE   :  RES.VOL. : CON.PR.: BLK.PR.:       I.I.      :
+       : OR GRID:           :OIL :WAT :GAS :   SM3/DAY :   SM3/DAY :   SM3/DAY :   RM3/DAY :  BARSA :  BARSA :   OR POTENTIAL  :
+       =========================================================================================================================
+       :        :           :    :    :    :           :           :           :           :        :        :                 :
+       :FIELD               :    :    :    :        0.0:       50.0:        0.0:       51.8:        :        :                 :     
+       =========================================================================================================================
+       :        :           :    :    :    :           :           :           :           :        :        :                 :
+       :GROUP 1   GROUP     :    :    :    :        0.0:       50.0:        0.0:       51.8:        :        :                 :     
+       -------------------------------------------------------------------------------------------------------------------------
+       :        :           :    :    :    :           :           :           :           :        :        :                 :
+       :PROD1   : 16, 20    :    :WRAT:    :        0.0:       50.0:        0.0:       51.8:   366.7:     0.0:   298.3 SM3/D/B :     
+       =========================================================================================================================
+
+
+                                                CUMULATIVE PRODUCTION/INJECTION TOTALS
+                                                --------------------------------------
+
+    --------------------------------------------------------------------------------------------------------------------------------
+    :  WELL  :  LOCATION :WELL:WELL:    OIL    :   WATER   :    GAS    :  RES.VOL. :    OIL    :   WATER   :    GAS    :  RES.VOL. :
+    :  NAME  :  (I,J,K)  :TYPE:CTRL: PRODUCTION: PRODUCTION: PRODUCTION: PRODUCTION: INJECTION : INJECTION : INJECTION : INJECTION :
+    : OR GRID:           :    :MODE:    KSM3   :    KSM3   :    KSM3   :    KRM3   :    KSM3   :    KSM3   :    KSM3   :    KRM3   :
+    ================================================================================================================================
+    :        :           :    :    :           :           :           :           :           :           :           :           :
+    :FIELD               :    :    :        3.1:        0.0:      630.3:        5.0:        0.0:        1.6:        0.0:        1.6: 
+    ================================================================================================================================
+    :        :           :    :    :           :           :           :           :           :           :           :           :
+    :GROUP 1   GROUP     :    :    :        3.1:        0.0:      630.3:        5.0:        0.0:        1.6:        0.0:        1.6: 
+    --------------------------------------------------------------------------------------------------------------------------------
+    :        :           :    :    :           :           :           :           :           :           :           :           :
+    :INJECT1 :  5, 34    :PROD:LRAT:        1.6:        0.0:      315.1:        2.5:        0.0:        0.0:        0.0:        0.0: 
+    :        :           :    :    :           :           :           :           :           :           :           :           :
+    :INJECT3 :  2, 12    :PROD:LRAT:        1.6:        0.0:      315.2:        2.5:        0.0:        0.0:        0.0:        0.0: 
+    :        :           :    :    :           :           :           :           :           :           :           :           :
+    :PROD1   : 16, 20    :WINJ:WRAT:        0.0:        0.0:        0.0:        0.0:        0.0:        1.6:        0.0:        1.6: 
+    ================================================================================================================================
+1                             **********************************************************************   3
+  BALANCE  AT     31.00  DAYS *'VEM'                                                                   * ECLIPSE  VERSION 2016.1     
+  REPORT   1     1 FEB 2022   *  RUN                                                                   * RUN AT 09:30 ON 25 NOV 2022 
+                              **************************************************************************
+
+
+                                                     ==================================================
+                                                     :               FIELD TOTALS                     :
+                                                     :         PAV =        367.47  BARSA             :
+                                                     :         PORV=       238029.   RM3              :
+                                                     :(PRESSURE IS WEIGHTED BY HYDROCARBON PORE VOLUME:
+                                                     : PORE VOLUMES ARE TAKEN AT REFERENCE CONDITIONS):
+                           :--------------- OIL    SM3  ---------------:-- WAT    SM3  -:--------------- GAS    SM3  ---------------:
+                           :     LIQUID         VAPOUR         TOTAL   :       TOTAL    :       FREE      DISSOLVED         TOTAL   :
+ :-------------------------:-------------------------------------------:----------------:-------------------------------------------:
+ :CURRENTLY IN PLACE       :        98104.                       98104.:         70549. :      2278069.     18951717.      21229786.:
+ :-------------------------:-------------------------------------------:----------------:-------------------------------------------:
+ :OUTFLOW THROUGH WELLS    :                                      3100.:         -1550. :                                    630282.:
+ :WELL  MATERIAL BAL. ERROR:                                        -0.:            -0. :                                        -0.:
+ :FIELD MATERIAL BAL. ERROR:                                         0.:            -0. :                                        -1.:
+ :-------------------------:-------------------------------------------:----------------:-------------------------------------------:
+ :ORIGINALLY IN PLACE      :       101204.                      101204.:         68999. :            0.     21860066.      21860066.:
+ ====================================================================================================================================
+
+
+                                                     ===================================
+                                                     :  FIPNUM OIL RECOVERY FACTORS    :
+ :---------:-----------------------------:---------------------------------------------:--------------------------------------------:
+ :         :                             : RATIO OF       RATIO OF       RATIO OF      : RATIO OF       RATIO OF       RATIO OF     :
+ : REGION  : MOBILE OIIP    MOBILE OIIP  : DISPLACED OIL  DISPLACED OIL  DISPLACED OIL : WELL FLOW      WELL FLOW      WELL FLOW    :
+ :         : (W.R.T WATER)  (W.R.T GAS)  : TO INITIAL     TO INITIAL     TO INITIAL    : TO INITIAL     TO INITIAL     TO INITIAL   :
+ :         :                             : OIP            MOBILE OIL     MOBILE OIL    : OIP            MOBILE OIL     MOBILE OIL   :
+ :         :                             :                (WATER)        (GAS)         :                (WATER)        (GAS)        :
+ :---------:-----------------------------:---------------------------------------------:--------------------------------------------:
+ :   FIELD :    6.506E+04      6.506E+04 :   0.03063        0.04765       0.04765      :   0.03063        0.04765        0.04765    :
+ ====================================================================================================================================
+
+ @--MESSAGE  AT TIME       31.0   DAYS    ( 1-FEB-2022):
+ @           RESTART FILE WRITTEN   REPORT     1                             
+ @           RESTART INCLUDES INTERBLOCK FLOWS                               
+               END OF INCLUDE FILE 
+   173 READING END     
+            9 Mbytes of storage required                         
+   1.8793     KB/active cell                                     
+           32 Mbytes (image size)                                
+
+ Error summary 
+ Comments               1
+ Warnings              13
+ Problems               0
+ Errors                 0
+ Bugs                   0
+ Final cpu       1.58 elapsed       1.58
+ Total number of time steps forced to be accepted          0

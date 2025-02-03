@@ -1,0 +1,123 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Simulation File (DATA) Data Section Version 2016.1 Jul 11 2016
+-- -----------------------------------------------------------------------------
+--
+-- File: EGG_E100.DATA
+-- Created on: 2022-Jun-26 at: 15:20:09
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+ 
+RUNSPEC
+ 
+TITLE
+VEM
+ 
+START
+ 15 'JUN' 2011 /
+ 
+METRIC
+ 
+FMTIN
+ 
+FMTOUT
+ 
+GAS
+ 
+OIL
+ 
+WATER
+ 
+SAVE
+/
+ 
+MESSAGES
+3* 500 5* 2000 /
+
+MONITOR
+ 
+RSSPEC
+ 
+NOINSPEC
+ 
+MSGFILE
+ 1 /
+ 
+AQUDIMS
+ 0 0 1 0 0 0 0 0 /
+ 
+DIMENS
+ 60 60 7 /
+ 
+EQLDIMS
+ 1 100 100 1 20 /
+ 
+REGDIMS
+ 1 1 0 10 /
+ 
+TABDIMS
+ 1 1 20 20 1 20 20 1 /
+ 
+WELLDIMS
+ 20 100 8 26 /
+ 
+ 
+GRID
+ 
+GRIDFILE
+ 0 1 /
+ 
+INIT
+ 
+INCLUDE
+'EGG_GOPP.INC'  /
+
+INCLUDE
+'EGG_GGO.INC'  /
+
+INCLUDE
+'EGG_GPRO.INC'  /
+
+INCLUDE
+'EGG_GOTH.INC'  /
+
+ 
+PROPS
+ 
+INCLUDE
+'EGG_PVT.INC'  /
+
+INCLUDE
+'EGG_SCAL.INC'  /
+
+
+REGIONS
+
+INCLUDE
+'EGG_REG.INC'  /
+
+ 
+SOLUTION
+ 
+INCLUDE
+'EGG_INIT.INC'  /
+
+ 
+SUMMARY
+ 
+INCLUDE
+'EGG_SUM.INC'  /
+
+ 
+SCHEDULE
+ 
+INCLUDE
+'EGG_SCH.INC'  /
+
+ 
+END

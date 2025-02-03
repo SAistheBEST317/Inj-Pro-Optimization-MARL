@@ -1,0 +1,264 @@
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	YEARS       	WLPR        	WLPR        	WLPR        	WLPR        	WLPR        	WLPR        	WLPR        	WLPR        
+ 	DAYS        	YEARS       	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	            	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    0.002738	           0	           0	           0	           0	           0	           0	    65.74496	    96.40875	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WLPR        	WLPR        	WSTAT       	WSTAT       	WSTAT       	WSTAT       	WSTAT       	WSTAT       	WSTAT       
+ 	DAYS        	SM3/DAY     	SM3/DAY     	            	            	            	            	            	            	            
+ 	            	PROD3       	PROD4       	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	    2.000000	    2.000000	    2.000000	    2.000000	    2.000000	    2.000000	    1.000000	    
+	 1.000000	    33.84970	    24.87271	    2.000000	    2.000000	    2.000000	    2.000000	    2.000000	    2.000000	    1.000000	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WSTAT       	WSTAT       	WSTAT       	WWGR        	WWGR        	WWGR        	WWGR        	WWGR        	WWGR        
+ 	DAYS        	            	            	            	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     
+ 	            	PROD2       	PROD3       	PROD4       	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	    1.000000	    1.000000	    1.000000	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    1.000000	    1.000000	    1.000000	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WWGR        	WWGR        	WWGR        	WWGR        	GWGR        	WWCT        	WWCT        	WWCT        	WWCT        
+ 	DAYS        	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	            	            	            	            
+ 	            	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WWCT        	WWCT        	WWCT        	WWCT        	WWCT        	WWCT        	GWCT        	WTHP        	WTHP        
+ 	DAYS        	            	            	            	            	            	            	            	BARSA       	BARSA       
+ 	            	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     	INJECT2     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WTHP        	WTHP        	WTHP        	WTHP        	WTHP        	WTHP        	WTHP        	WTHP        	TIMESTEP    
+ 	DAYS        	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	DAYS        
+ 	            	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	            
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	    0.376888	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WVPR        	WVPR        	WVPR        	WVPR        	WVPR        	WVPR        	WVPR        	WVPR        	WVPR        
+ 	DAYS        	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     
+ 	            	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	    84.15842	    123.4103	    43.33013	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WVPR        	GVPR        	WVPT        	WVPT        	WVPT        	WVPT        	WVPT        	WVPT        	WVPT        
+ 	DAYS        	RM3/DAY     	RM3/DAY     	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         
+ 	            	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    31.83891	    282.7378	           0	           0	           0	           0	           0	           0	    152.6003	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WVPT        	WVPT        	WVPT        	GVPT        	FWPR        	FWPT        	WVIR        	WVIR        	WVIR        
+ 	DAYS        	RM3         	RM3         	RM3         	RM3         	SM3/DAY     	SM3         	RM3/DAY     	RM3/DAY     	RM3/DAY     
+ 	            	PROD2       	PROD3       	PROD4       	1           	            	            	INJECT1     	INJECT2     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    295.2090	    93.60121	    94.83245	    636.2429	           0	           0	    102.3955	    15.91108	    48.18383	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WVIR        	WVIR        	WVIR        	WVIR        	WVIR        	WVIR        	WVIR        	GVIR        	WVIT        
+ 	DAYS        	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3         
+ 	            	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    8.088716	    7.495483	    87.40273	           0	           0	           0	           0	    269.4774	    102.3903	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WVIT        	WVIT        	WVIT        	WVIT        	WVIT        	WVIT        	WVIT        	WVIT        	WVIT        
+ 	DAYS        	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         	RM3         
+ 	            	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    15.91027	    48.18136	    8.088301	    7.495099	    87.39825	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	GVIT        	WPI         	WPI         	WPI         	WPI         	WPI         	WPI         	WPI         	WPI         
+ 	DAYS        	RM3         	SM3/D/B     	SM3/D/B     	SM3/D/B     	SM3/D/B     	SM3/D/B     	SM3/D/B     	SM3/D/B     	SM3/D/B     
+ 	            	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    269.4636	    91.46262	    251.5817	    286.2048	    94.90929	    359.0981	    142.7661	    415.2328	    2549.181	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WPI         	WPI         	WWPR        	WWPR        	WWPR        	WWPR        	WWPR        	WWPR        	WWPR        
+ 	DAYS        	SM3/D/B     	SM3/D/B     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	PROD3       	PROD4       	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    245.0353	    403.4649	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WWPR        	WWPR        	WWPR        	GWPR        	WOPR        	WOPR        	WOPR        	WOPR        	WOPR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	PROD2       	PROD3       	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WOPR        	WOPR        	WOPR        	WOPR        	WOPR        	FOPR        	FOPT        	GOPR        	WGPR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3         	SM3/DAY     	SM3/DAY     
+ 	            	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	            	            	1           	INJECT1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	    65.74496	    96.40875	    33.84970	    24.87271	    220.8761	    497.0439	    220.8761	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WGPR        	WGPR        	WGPR        	WGPR        	WGPR        	WGPR        	WGPR        	WGPR        	WGPR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	GGPR        	WEPR        	WEPR        	WEPR        	WEPR        	WEPR        	WEPR        	WEPR        	WEPR        
+ 	DAYS        	SM3/DAY     	KJ/DAY      	KJ/DAY      	KJ/DAY      	KJ/DAY      	KJ/DAY      	KJ/DAY      	KJ/DAY      	KJ/DAY      
+ 	            	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WEPR        	WEPR        	WWPT        	WWPT        	WWPT        	WWPT        	WWPT        	WWPT        	WWPT        
+ 	DAYS        	KJ/DAY      	KJ/DAY      	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	PROD3       	PROD4       	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WWPT        	WWPT        	WWPT        	GWPT        	WOPT        	WOPT        	WOPT        	WOPT        	WOPT        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	PROD2       	PROD3       	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WOPT        	WOPT        	WOPT        	WOPT        	WOPT        	GOPT        	WGPT        	WGPT        	WGPT        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	    119.2137	    230.6225	    73.12284	    74.08488	    497.0439	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WGPT        	WGPT        	WGPT        	WGPT        	WGPT        	WGPT        	WGPT        	GGPT        	WWIR        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3/DAY     
+ 	            	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	    94.31215	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WWIR        	WWIR        	WWIR        	WWIR        	WWIR        	WWIR        	WWIR        	WWIR        	WWIR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    14.65502	    44.38007	    7.450170	    6.903769	    80.50291	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	GWIR        	WOIR        	WOIR        	WOIR        	WOIR        	WOIR        	WOIR        	WOIR        	WOIR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    248.2041	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WOIR        	WOIR        	GOIR        	WGIR        	WGIR        	WGIR        	WGIR        	WGIR        	WGIR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	PROD3       	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WGIR        	WGIR        	WGIR        	WGIR        	GGIR        	WWIT        	WWIT        	WWIT        	WWIT        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3         	SM3         	SM3         	SM3         
+ 	            	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	    94.31215	    14.65502	    44.38007	    7.450170	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WWIT        	WWIT        	WWIT        	WWIT        	WWIT        	WWIT        	GWIT        	FGPR        	FGPT        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3/DAY     	SM3         
+ 	            	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	1           	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	    6.903769	    80.50291	           0	           0	           0	           0	    248.2041	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WOIT        	WOIT        	WOIT        	WOIT        	WOIT        	WOIT        	WOIT        	WOIT        	WOIT        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WOIT        	GOIT        	WGIT        	WGIT        	WGIT        	WGIT        	WGIT        	WGIT        	WGIT        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	PROD4       	1           	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WGIT        	WGIT        	WGIT        	FWIR        	FWIT        	GGIT        	WGOR        	WGOR        	WGOR        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3/DAY     	SM3         	SM3         	SM3/SM3     	SM3/SM3     	SM3/SM3     
+ 	            	PROD2       	PROD3       	PROD4       	            	            	1           	INJECT1     	INJECT2     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 1.000000	           0	           0	           0	    248.2041	    248.2041	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WGOR        	WGOR        	WGOR        	WGOR        	WGOR        	WGOR        	WGOR        	GGOR        	WBHP        
+ 	DAYS        	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	SM3/SM3     	BARSA       
+ 	            	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       	1           	INJECT1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	    400.1228	    
+	 1.000000	           0	           0	           0	           0	           0	           0	           0	           0	    397.0380	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WBHP        	WBHP        	WBHP        	WBHP        	WBHP        	WBHP        	WBHP        	WBHP        	WBHP        
+ 	DAYS        	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       	PROD4       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	    400.1228	    400.1228	    400.1228	    400.1228	    400.1228	    400.1228	    400.1228	    400.1228	    400.1228	    
+	 1.000000	    395.0909	    395.5137	    395.0831	    395.0426	    396.2027	    395.0000	    395.0000	    395.0000	    395.0000	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WBP9        	WBP9        	WBP9        	WBP9        	WBP9        	WBP9        	WBP9        	WBP9        	WBP9        
+ 	DAYS        	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	INJECT1     	INJECT2     	INJECT3     	INJECT4     	INJECT5     	INJECT6     	PROD1       	PROD2       	PROD3       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	    400.8357	    400.8047	    400.7894	    400.8281	    400.8798	    400.8477	    400.8699	    400.8593	    400.8250	    
+	 1.000000	    395.7237	    395.0412	    395.2341	    395.0299	    395.0323	    395.4303	    395.2142	    395.0516	    395.1741	    
+
+	SUMMARY OF RUN EGG                                                                                                                                                                                                                                                                                                                                                                                                                                                                       	
+ 	TIME        	WBP9        	FPR         	FGIR        	FGIT                                                                         
+ 	DAYS        	BARSA       	BARSA       	SM3/DAY     	SM3                                                                          
+ 	            	PROD4       	            	            	                                                                             
+ 	            	            	            	            	                                                                             
+	        0	    400.8672	    400.8667	           0	           0	                                                                     
+	 1.000000	    395.0829	    396.0071	           0	           0	                                                                     

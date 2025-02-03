@@ -1,0 +1,14 @@
+--
+-- -----------------------------------------------------------------------------
+-- Office Grid Operational and Parallel Keywords (GRIDGOPP) Data Section Version 2016.1 Jul 11 2016
+-- -----------------------------------------------------------------------------
+--
+-- File: EGG_GOPP.INC
+-- Created on: 2022-Jun-26 at: 15:20:05
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--

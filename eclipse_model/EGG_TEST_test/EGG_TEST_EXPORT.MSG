@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="us-ascii" standalone="no" ?>
+<eclipse>
+
+  <warning date="" time="">INJECT2 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">INJECT4 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">INJECT5 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">INJECT6 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">INJECT7 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">INJECT8 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">PROD2 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">PROD3 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">PROD4 has no control data assigned in development strategy 'Prediction water flood strategy 1'</warning>
+
+  <warning date="" time="">The GRIDFILE keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The RPTSOL keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WSTAT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WWGR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GWGR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WWCT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GWCT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WTHP keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The TIMESTEP keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WVPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GVPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WVPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GVPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FWPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FWPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WVIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GVIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WVIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GVIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WPI keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WWPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GWPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WOPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FOPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FOPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GOPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WGPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GGPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WEPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WWPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GWPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WOPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GOPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WGPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GGPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WWIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GWIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WOIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GOIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WGIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GGIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WWIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GWIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FGPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FGPT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WOIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GOIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WGIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FWIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FWIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GGIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WGOR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The GGOR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WBHP keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The WBP9 keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FPR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FGIR keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+  <warning date="" time="">The FGIT keyword was not exported by Petrel as it has been modified by the user.</warning>
+
+</eclipse>

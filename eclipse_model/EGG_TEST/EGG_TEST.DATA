@@ -1,0 +1,310 @@
+-- Generated [
+-- Format      : ECLIPSE keywords (ASCII)
+-- Exported by : Petrel 2016.4 (64-bit) Schlumberger
+-- User name   : Administrator
+-- Date        : Friday, November 25 2022 09:30:30
+-- Project     : EGG.pet
+-- Generated ]
+
+--
+-- -----------------------------------------------------------------------------
+-- Office Simulation File (DATA) Data Section Version 2016.1 Jul 11 2016
+-- -----------------------------------------------------------------------------
+--
+-- File: EGG_E100.DATA
+-- Created on: 2022-Jun-26 at: 15:20:09
+--
+-- *****************************************************************************
+-- *                                  WARNING                                  *
+-- *                THIS FILE HAS BEEN AUTOMATICALLY GENERATED.                *
+-- *          ANY ATTEMPT TO EDIT MANUALLY MAY RESULT IN INVALID DATA.         *
+-- *****************************************************************************
+--
+
+
+
+
+
+RUNSPEC
+
+TITLE                                  -- Generated : Petrel
+'VEM'
+
+WELLDIMS                               -- Generated : Petrel
+  10 20 20 30 /
+
+MESSAGES
+ 9* 1000000 /
+
+START                                  -- Generated : Petrel
+  1 JAN 2022 /
+
+DISGAS                                 -- Generated : Petrel
+
+WATER                                  -- Generated : Petrel
+
+OIL                                    -- Generated : Petrel
+
+GAS                                    -- Generated : Petrel
+
+PETOPTS                                -- Generated : Petrel
+INITNNC /
+
+MONITOR                                -- Generated : Petrel
+
+RSSPEC
+
+NOINSPEC
+
+MSGFILE
+ 1 /
+
+MULTOUT                                -- Generated : Petrel
+
+METRIC                                 -- Generated : Petrel
+
+FMTIN
+
+FMTOUT
+
+DIMENS                                 -- Generated : Petrel
+  24 37 7 /
+
+TABDIMS                                -- Generated : Petrel
+  12* 1 /
+
+GRID
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_GRID.INC' /
+
+NOECHO                                 -- Generated : Petrel
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_GRID.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_PERMX.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_PERMY.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_PERMZ.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_PORO.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_NTG.GRDECL' /
+
+ECHO                                   -- Generated : Petrel
+
+EDIT
+
+PROPS
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROPS.INC' /
+
+REGIONS
+
+NOECHO                                 -- Generated : Petrel
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_SATNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_PVTNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_ROCKNUM.GRDECL' /
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_PROP_EQLNUM.GRDECL' /
+
+ECHO                                   -- Generated : Petrel
+
+SOLUTION
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_SOL.INC' /
+
+SUMMARY
+
+EXCEL
+
+RPTONLY
+
+WLPR
+ /
+
+WSTAT
+ /
+
+WWGR
+ /
+
+GWGR
+ /
+
+WWCT
+ /
+
+GWCT
+ /
+
+WTHP
+ /
+
+TIMESTEP
+
+WVPR
+ /
+
+GVPR
+ /
+
+WVPT
+ /
+
+GVPT
+ /
+
+FWPR
+
+FWPT
+
+WVIR
+ /
+
+GVIR
+ /
+
+WVIT
+ /
+
+GVIT
+ /
+
+WPI
+ /
+
+WWPR
+ /
+
+GWPR
+ /
+
+WOPR
+ /
+
+FOPR
+
+FOPT
+
+GOPR
+ /
+
+WGPR
+ /
+
+GGPR
+ /
+
+WEPR
+ /
+
+WWPT
+ /
+
+GWPT
+ /
+
+WOPT
+ /
+
+GOPT
+ /
+
+WGPT
+ /
+
+GGPT
+ /
+
+WWIR
+ /
+
+GWIR
+ /
+
+WOIR
+ /
+
+GOIR
+ /
+
+WGIR
+ /
+
+GGIR
+ /
+
+WWIT
+ /
+
+GWIT
+ /
+
+FGPR
+
+FGPT
+
+WOIT
+ /
+
+GOIT
+ /
+
+WGIT
+ /
+
+FWIR
+
+FWIT
+
+GGIT
+ /
+
+WGOR
+ /
+
+GGOR
+ /
+
+WBHP
+ /
+
+WBP9
+/
+
+FPR
+
+FGIR
+
+FGIT
+--
+-- -----------------------------------------------------------------------------
+-- End of Office Summary (SUM) Data Section
+-- -----------------------------------------------------------------------------
+--
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_SUM.INC' /
+
+SCHEDULE
+
+INCLUDE                                -- Generated : Petrel
+'EGG_TEST_SCH.INC' /
+

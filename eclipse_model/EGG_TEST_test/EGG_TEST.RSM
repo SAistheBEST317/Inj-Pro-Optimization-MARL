@@ -1,0 +1,130 @@
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	YEARS       	WLPR        	WLPR        	WLPR        	WSTAT       	WSTAT       	WSTAT       	WWGR        	WWGR        
+ 	DAYS        	YEARS       	SM3/DAY     	SM3/DAY     	SM3/DAY     	            	            	            	SM3/SM3     	SM3/SM3     
+ 	            	            	INJECT1     	INJECT3     	PROD1       	INJECT1     	INJECT3     	PROD1       	INJECT1     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	    1.000000	    1.000000	    2.000000	           0	           0	    
+	 31.00000	    0.084873	    50.00000	    50.00000	           0	    1.000000	    1.000000	    2.000000	           0	           0	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WWGR        	GWGR        	WWCT        	WWCT        	WWCT        	GWCT        	WTHP        	WTHP        	WTHP        
+ 	DAYS        	SM3/SM3     	SM3/SM3     	            	            	            	            	BARSA       	BARSA       	BARSA       
+ 	            	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	TIMESTEP    	WVPR        	WVPR        	WVPR        	GVPR        	WVPT        	WVPT        	WVPT        	GVPT        
+ 	DAYS        	DAYS        	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3         	RM3         	RM3         	RM3         
+ 	            	            	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       	GROUP 1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	    3.487918	    79.18867	    79.20531	           0	    158.3940	    2498.617	    2499.041	           0	    4997.658	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	FWPR        	FWPT        	WVIR        	WVIR        	WVIR        	GVIR        	WVIT        	WVIT        	WVIT        
+ 	DAYS        	SM3/DAY     	SM3         	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3/DAY     	RM3         	RM3         	RM3         
+ 	            	            	            	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	           0	           0	           0	           0	    51.81791	    51.81791	           0	           0	    1605.418	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	GVIT        	WPI         	WPI         	WPI         	WWPR        	WWPR        	WWPR        	GWPR        	WOPR        
+ 	DAYS        	RM3         	SM3/D/B     	SM3/D/B     	SM3/D/B     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	GROUP 1     	INJECT1     	INJECT3     	PROD1       	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	    1605.418	    246.9566	    410.3525	    298.3206	           0	           0	           0	           0	    50.00000	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WOPR        	WOPR        	FOPR        	FOPT        	GOPR        	WGPR        	WGPR        	WGPR        	GGPR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3         	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	INJECT3     	PROD1       	            	            	GROUP 1     	INJECT1     	INJECT3     	PROD1       	GROUP 1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	    50.00000	           0	    100.0000	    3100.000	    100.0000	    9644.868	    9650.149	           0	    19295.02	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WEPR        	WEPR        	WEPR        	WWPT        	WWPT        	WWPT        	GWPT        	WOPT        	WOPT        
+ 	DAYS        	KJ/DAY      	KJ/DAY      	KJ/DAY      	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	INJECT1     	INJECT3     	PROD1       	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	           0	           0	           0	           0	           0	           0	           0	    1550.000	    1550.000	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WOPT        	GOPT        	WGPT        	WGPT        	WGPT        	GGPT        	WWIR        	WWIR        	WWIR        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3         	SM3         	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	           0	    3100.000	    315073.4	    315208.3	           0	    630281.6	           0	           0	    50.00000	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	GWIR        	WOIR        	WOIR        	WOIR        	GOIR        	WGIR        	WGIR        	WGIR        	GGIR        
+ 	DAYS        	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     	SM3/DAY     
+ 	            	GROUP 1     	INJECT1     	INJECT3     	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       	GROUP 1     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	    50.00000	           0	           0	           0	           0	           0	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WWIT        	WWIT        	WWIT        	GWIT        	FGPR        	FGPT        	WOIT        	WOIT        	WOIT        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3/DAY     	SM3         	SM3         	SM3         	SM3         
+ 	            	INJECT1     	INJECT3     	PROD1       	GROUP 1     	            	            	INJECT1     	INJECT3     	PROD1       
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	           0	           0	    1550.000	    1550.000	    19295.02	    630281.6	           0	           0	           0	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	GOIT        	WGIT        	WGIT        	WGIT        	FWIR        	FWIT        	GGIT        	WGOR        	WGOR        
+ 	DAYS        	SM3         	SM3         	SM3         	SM3         	SM3/DAY     	SM3         	SM3         	SM3/SM3     	SM3/SM3     
+ 	            	GROUP 1     	INJECT1     	INJECT3     	PROD1       	            	            	GROUP 1     	INJECT1     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	           0	           0	           0	           0	    
+	 31.00000	           0	           0	           0	           0	    50.00000	    1550.000	           0	    192.8974	    193.0030	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WGOR        	GGOR        	WBHP        	WBHP        	WBHP        	WBP9        	WBP9        	WBP9        	FPR         
+ 	DAYS        	SM3/SM3     	SM3/SM3     	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	PROD1       	GROUP 1     	INJECT1     	INJECT3     	PROD1       	INJECT1     	INJECT3     	PROD1       	            
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	    400.1292	    400.1292	    400.1292	    400.8796	    400.8309	    400.9157	    400.9133	    
+	 31.00000	           0	    192.9502	    366.0764	    366.3672	    366.7278	    366.3436	    366.5237	    366.5447	    367.4670	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	FGIR        	FGIT        	FWGR        	FWCT        	FRV         	FRS         	FVPR        	FVPT        	FVIR        
+ 	DAYS        	SM3/DAY     	SM3         	SM3/SM3     	            	SM3/SM3     	SM3/SM3     	RM3/DAY     	RM3         	RM3/DAY     
+ 	            	            	            	            	            	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	           0	           0	           0	           0	    216.0000	           0	           0	           0	    
+	 31.00000	           0	           0	           0	           0	           0	    193.1801	    158.3940	    4997.658	    51.81791	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	FVIT        	FPPW        	FPPO        	FPPG        	WBP5        	WBP5        	WBP5        	WBP4        	WBP4        
+ 	DAYS        	RM3         	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       	BARSA       
+ 	            	            	            	            	            	INJECT1     	INJECT3     	PROD1       	INJECT1     	INJECT3     
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	           0	    399.5462	    399.9999	    400.5767	    400.8796	    400.8309	    400.9157	    400.8796	    400.8309	    
+	 31.00000	    1605.418	    366.1081	    366.5403	    367.1445	    366.3359	    366.5203	    366.5547	    366.3931	    366.5514	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	WBP4        	WBP         	WBP         	WBP         	FWIP        	FOIPG       	FGIPL       	FOIP        	FOIPL       
+ 	DAYS        	BARSA       	BARSA       	BARSA       	BARSA       	SM3         	SM3         	SM3         	SM3         	SM3         
+ 	            	            	            	            	            	            	            	*10**3      	            	            
+ 	            	PROD1       	INJECT1     	INJECT3     	PROD1       	            	            	            	            	            
+ 	            	            	            	            	            	            	            	            	            	            
+	        0	    400.9157	    400.8796	    400.8309	    400.9157	    68998.97	           0	    21860.07	    101204.0	    101204.0	    
+	 31.00000	    366.5132	    366.2787	    366.4891	    366.5962	    70548.97	           0	    18951.72	    98104.00	    98104.00	    
+
+	SUMMARY OF RUN EGG_TEST                                                                                                                                                                                                                                                                                                                                                                                                                                                                  	
+ 	TIME        	FGIP        	FGIPG       	FOIR        	FOIT        	FGOR                                                            
+ 	DAYS        	SM3         	SM3         	SM3/DAY     	SM3         	SM3/SM3                                                         
+ 	            	*10**3      	            	            	            	                                                                
+ 	            	            	            	            	            	                                                                
+ 	            	            	            	            	            	                                                                
+	        0	    21860.07	           0	           0	           0	           0	                                                        
+	 31.00000	    21229.79	    2278069.	           0	           0	    192.9502	                                                        

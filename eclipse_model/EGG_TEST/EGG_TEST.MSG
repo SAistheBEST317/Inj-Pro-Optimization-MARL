@@ -1,0 +1,152 @@
+<eclipse>
+<message source="eclrun" date="" time="0">
+Executing ECLIPSE on pc system with x86_64 architecture named WINDOWS-9PRQPT9
+</message>
+<message source="eclrun" date="" time="0">
+Process ID is 6076
+</message>
+<message source="eclrun" date="" time="0">
+Starting HDF conversion ...
+</message>
+<message source="eclrun" date="" time="0">
+HDF conversion completed successfully.
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ CHECKING FOR LICENSES                                                   
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE GRID SECTION IS                      
+       2818 KBYTES                                                       
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ NEITHER OLDTRAN,OLDTRANR NOR NEWTRAN SPECIFIED                          
+ TRANSMISSIBILITIES TO BE CALCULATED                                     
+ USING  NEWTRAN                                                          
+</message>
+<comment date="1/1/2022" time="0.00000000000000">
+ NO NON-NEIGHBOUR CONNECTIONS FOUND                                      
+</comment>
+<message date="1/1/2022" time="0.00000000000000">
+ NUMBER OF ACTIVE CELLS IS 4649                                          
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ THE MEMORY REQUIRED TO PROCESS THE SOLUTION SECTION IS                  
+       7529 KBYTES                                                       
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+    62194 CHARACTER VARIABLES USED                                       
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ THE ROCK DATA FOR EACH BLOCK WILL CORRESPOND                            
+ TO THE ROCK REGION NUMBERS (ROCKNUM) AS THE                             
+ THIRD ITEM IN THE ROCKOPTS KEYWORD HAS BEEN                             
+ SET TO ROCKNUM                                                          
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+  NEGATIVE COMPRESSIBILITY FOUND IN GAS                                  
+  PRESSURE TABLE     1 AND OIL PRESSURE                                  
+  TABLE     1 AT A SAMPLE PRESSURE VALUE                                 
+    465.24138 . ADJUST SATURATED FLUID                                   
+  PROPERTY VALUES AT THIS PRESSURE.                                      
+  NEGATIVE COMPRESSIBILITIES OCCUR                                       
+  FOR GAS SATURATIONS LESS THAN     0.01131                              
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+  NEGATIVE COMPRESSIBILITY FOUND IN GAS                                  
+  PRESSURE TABLE     1 AND OIL PRESSURE                                  
+  TABLE     1 AT A SAMPLE PRESSURE VALUE                                 
+    479.00000 . ADJUST SATURATED FLUID                                   
+  PROPERTY VALUES AT THIS PRESSURE.                                      
+  NEGATIVE COMPRESSIBILITIES OCCUR                                       
+  FOR GAS SATURATIONS LESS THAN     0.08333                              
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ THE MAXIMUM PRESSURE ENTERED IN THE PVT TABLES                          
+ FOR THE OIL PHASE IS    484.404. THIS IS GREATER THAN                   
+ THE MAXIMUM PRESSURE FOR THE GAS PHASE,    479.000                      
+ AND MAY LEAD TO PVT TABLE EXTRAPOLATION                                 
+</warning>
+<warning date="1/1/2022" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL INJECT1                         
+ HAS BEEN DEFAULTED.  THE DEFAULT VALUE IS                               
+      1.0   BARSA                                                        
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ OPENING WELL INJECT1  AT TIME      0.00   DAYS                          
+ CONTROLLED BY LIQUID RATE                                               
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL INJECT3                         
+ HAS BEEN DEFAULTED.  THE DEFAULT VALUE IS                               
+      1.0   BARSA                                                        
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ OPENING WELL INJECT3  AT TIME      0.00   DAYS                          
+ CONTROLLED BY LIQUID RATE                                               
+</message>
+<warning date="1/1/2022" time="0.00000000000000">
+ THE BOTTOM HOLE PRESSURE LIMIT FOR WELL PROD1                           
+ HAS BEEN DEFAULTED. THE DEFAULT VALUE IS    6891.   BARSA               
+</warning>
+<message date="1/1/2022" time="0.00000000000000">
+ OPENING WELL PROD1    AT TIME      0.00   DAYS                          
+ CONTROLLED BY WATER RATE                                                
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ DRSDT KEYWORD HAS NOT BEEN ENTERED, SO THE                              
+ MAXIMUM GAS RE-SOLUTION RATE IS DEFAULTED TO INFINITY.                  
+</message>
+<message date="1/1/2022" time="0.00000000000000">
+ RESTART FILE WRITTEN   REPORT     0                                     
+ RESTART INCLUDES INTERBLOCK FLOWS                                       
+</message>
+<warning date="6/1/2022" time="5.87707697001194">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<warning date="9/1/2022" time="8.34694507979523">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<warning date="12/1/2022" time="11.50571362707337">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<warning date="16/1/2022" time="15.03939276767538">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<warning date="20/1/2022" time="19.44292148021450">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<warning date="25/1/2022" time="24.02416450917940">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<warning date="28/1/2022" time="27.51208225458970">
+ LINEAR EQUATION CONVERGENCE PROBLEMS WERE EXPERIENCED THIS              
+ TIME-STEP. IN SOME CASES INCREASING LITMAX                              
+ (TUNING KEYWORD) AND/OR NSTACK MAY HELP.                                
+ THE SIMULATION MAY RUN FASTER WITH THE CPR LINEAR SOLVER.               
+</warning>
+<message date="1/2/2022" time="31.00000000000000">
+ RESTART FILE WRITTEN   REPORT     1                                     
+ RESTART INCLUDES INTERBLOCK FLOWS                                       
+</message>
+</eclipse>
