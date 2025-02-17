@@ -1,4 +1,4 @@
-# ##  A Multi-Agent Reinforcement Learning Framework for Scalable and Adaptive InjectionProduction Optimization in Reservoir Management
+###  A Multi-Agent Reinforcement Learning Framework for Scalable and Adaptive InjectionProduction Optimization in Reservoir Management
 
 #### Authors
 * First Author / Corresponding Author: Shuang Zhao, Master, The University of Hong Kong, HONG KONG, u3640969@connect.hku.hk
