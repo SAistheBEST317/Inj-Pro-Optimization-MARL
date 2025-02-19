@@ -29,12 +29,8 @@ pip install -e .
 
 #### Model Option
 
-| 左对齐 | 居中对齐 | 右对齐 |
-|:-------|:-------:|-------:|
-| 数据1  | 数据2   | 数据3  |
-| 数据4  | 数据5   | 数据6  |
-
-|---------|---------|---------|
+| name | type | description | default |
+|:-------|:-------:|-------:|-------:|
 | --max_steps    | int   | number of steps in one episode                                                          |  default=12    |
 | --interval     | int   | number of days in every timestep                                                        |  default=60    |
 | --init_step    | int   | initial time step                                                                       |  default=1     |
