@@ -50,6 +50,5 @@ pip install -e .
 | --action_record| str   | Record the action and initial status                                                    |  default= 'save/action_record'               |
 | --n_old_well   | int   | Number of new Wells + number of old Wells + number of features of a new well location   |  default=12                                  |
 | --well_list    | int   | number of adjacent Wells that received interference                                     |  default= 5                                  |
-| --reward_dist  | int   | The upper range of the adjacent well for which the reward is calculated                 |  default=['INJECT1','INJECT2','INJECT3','INJECT4','INJECT5','INJECT6','INJECT7','INJECT8','PROD1','PROD2','PROD3','PROD4']   |
 
 #### 
