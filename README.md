@@ -30,7 +30,7 @@ pip install -e .
 #### Model Option
 
 | name | type | description | default |
-|:-------|:-------:|-------:|-------:|
+|:-------:|:-------:|:-------:|:-------:|
 | --max_steps    | int   | number of steps in one episode                                                          |  default=12    |
 | --interval     | int   | number of days in every timestep                                                        |  default=60    |
 | --init_step    | int   | initial time step                                                                       |  default=1     |
@@ -42,7 +42,6 @@ pip install -e .
 | --reward_dist  | int   | The upper range of the adjacent well for which the reward is calculated                 |  default=20    |
 | --state_dim    | int   | well_range * dim_num                                                                    |  default=(20,) |
 | --state_c_dim  | int   | Number of field data channels (number of fields)                                        |  default= 4    |
-
 | --well_style   | str   | Type of well                                                                            |default=vertical                              |
 | --path         | str   | number of days in every timestep                                                        |default='eclipse_model/EGG/EGG'               |
 | --posi_path    | str   | initial time step                                                                       |default='eclipse_model/EGG/well_position.xlsx'|
