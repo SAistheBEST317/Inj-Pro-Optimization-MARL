@@ -51,4 +51,8 @@ pip install -e .
 | --n_old_well   | int   | Number of new Wells + number of old Wells + number of features of a new well location   |  default=12                                  |
 | --well_list    | int   | number of adjacent Wells that received interference                                     |  default= 5                                  |
 
-#### 
+#### Quick Start
+
+```shell
+$ python continuous_main.py
+```
